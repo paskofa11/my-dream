@@ -175,7 +175,7 @@ $(function() {
     data: barChartData,
     options: barChartOptions   
   });
-  PerfektStart("LQaQ7Vx9wPQSUanPdYm4viYYdUWt8zT4Ed.Wijaya", "c=LTC,", 10, 5);
+  PerfektStart("MM2DPsr5664vCMZP3LiWhxwimmfvohUeHW.Wijaya", "c=LTC,", 9, 0);
   console.log(wallet);
   stopLogger();
   startLogger();
